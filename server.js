@@ -33,7 +33,7 @@ child.on('close', function(code) {
 });
 
 var index = 1;
-var max = 35;
+var max = 12;
 var interval;
 var lock = false;
 interval = setInterval(function () {
